@@ -1,0 +1,90 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+#firstList{
+	font-size: large;
+	font-weight: bold;
+}
+#head{
+	font-size: x-large;
+	font-weight: bolder;
+	margin-left: 170px;
+  	width: 50%;
+  	padding: 10px;
+	
+}
+#boulderP{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+#compPic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+.aboutMe > ul > li{
+	margin: 10px 0;
+}
+.bottom-interactive{
+	display: flex;
+}
+.button-holder{
+	margin-right: 20px;
+}
+.yellowButtons{
+	margin-top: 10px;
+}
+#color{
+	background-color: yellow;
+	border-radius: 8px;
+	height: 30px;
+}
+#place{
+	background-color: yellow;
+	border-radius: 8px;
+	height: 30px;
+}
+#ritual{
+	background-color: yellow;
+	border-radius: 8px;
+	height: 30px;
+}
